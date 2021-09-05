@@ -1,0 +1,5 @@
+﻿  TSP-SteepestAscentHillClimbing.cpp
+D:\University\term7\هوش مصنوعی\AI PROJECTS\TSP with steepest-ascent hill-climbing algorithm\TSP-SteepestAscentHillClimbing\TSP-SteepestAscentHillClimbing\TSP-SteepestAscentHillClimbing.cpp(28,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\University\term7\هوش مصنوعی\AI PROJECTS\TSP with steepest-ascent hill-climbing algorithm\TSP-SteepestAscentHillClimbing\TSP-SteepestAscentHillClimbing\TSP-SteepestAscentHillClimbing.cpp(31,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\University\term7\هوش مصنوعی\AI PROJECTS\TSP with steepest-ascent hill-climbing algorithm\TSP-SteepestAscentHillClimbing\TSP-SteepestAscentHillClimbing\TSP-SteepestAscentHillClimbing.cpp(33,40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  TSP-SteepestAscentHillClimbing.vcxproj -> D:\University\term7\هوش مصنوعی\AI PROJECTS\TSP with steepest-ascent hill-climbing algorithm\TSP-SteepestAscentHillClimbing\Debug\TSP-SteepestAscentHillClimbing.exe
